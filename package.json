@@ -1,0 +1,22 @@
+{
+  "name": "collect_currentpage_info_serve",
+  "version": "0.0.1",
+  "description": "这是前端日志分析的后端项目",
+  "main": "app.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/534591395/collect-currentpage-info-serve"
+  },
+  "author": "534591395@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/534591395/collect-currentpage-info-serve/issues"
+  },
+  "homepage": "https://github.com/534591395/collect-currentpage-info-serve",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
